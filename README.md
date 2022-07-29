@@ -1,9 +1,9 @@
 # CPSC-351-Project
 
-a <br />
+<br />
 Section Number: 351-01 10597
-a <br />
+<br />
 Team Members: (Name - Email)
-a <br />
+<br />
 Jin Lu - jlu28@csu.fullerton.edu
 
